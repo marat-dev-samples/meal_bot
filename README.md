@@ -1,2 +1,3 @@
 # meal_bot
-Transition state machine based mealbot
+Sate machine based, conversation mealbot
+Example use Telegram bot api
