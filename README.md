@@ -1,3 +1,2 @@
 # meal_bot
-Sate machine based, conversation mealbot
-Example use Telegram bot api
+Sate machine based, conversation mealbot. Example include Telegram bot implementation. 
